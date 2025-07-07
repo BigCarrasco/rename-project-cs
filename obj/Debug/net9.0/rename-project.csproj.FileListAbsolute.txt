@@ -1,0 +1,14 @@
+C:\Users\angel\OneDrive\Escritorio\rename-project\bin\Debug\net9.0\rename-project.exe
+C:\Users\angel\OneDrive\Escritorio\rename-project\bin\Debug\net9.0\rename-project.deps.json
+C:\Users\angel\OneDrive\Escritorio\rename-project\bin\Debug\net9.0\rename-project.runtimeconfig.json
+C:\Users\angel\OneDrive\Escritorio\rename-project\bin\Debug\net9.0\rename-project.dll
+C:\Users\angel\OneDrive\Escritorio\rename-project\bin\Debug\net9.0\rename-project.pdb
+C:\Users\angel\OneDrive\Escritorio\rename-project\obj\Debug\net9.0\rename-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Escritorio\rename-project\obj\Debug\net9.0\rename-project.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Escritorio\rename-project\obj\Debug\net9.0\rename-project.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Escritorio\rename-project\obj\Debug\net9.0\rename-project.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\rename-project\obj\Debug\net9.0\rename-project.dll
+C:\Users\angel\OneDrive\Escritorio\rename-project\obj\Debug\net9.0\refint\rename-project.dll
+C:\Users\angel\OneDrive\Escritorio\rename-project\obj\Debug\net9.0\rename-project.pdb
+C:\Users\angel\OneDrive\Escritorio\rename-project\obj\Debug\net9.0\rename-project.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Escritorio\rename-project\obj\Debug\net9.0\ref\rename-project.dll
