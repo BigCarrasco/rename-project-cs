@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angel\\OneDrive\\Escritorio\\rename-project\\rename-project.csproj": {}
+    "C:\\Users\\angel\\Documents\\rename-project-cs\\rename-project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angel\\OneDrive\\Escritorio\\rename-project\\rename-project.csproj": {
+    "C:\\Users\\angel\\Documents\\rename-project-cs\\rename-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Escritorio\\rename-project\\rename-project.csproj",
+        "projectUniqueName": "C:\\Users\\angel\\Documents\\rename-project-cs\\rename-project.csproj",
         "projectName": "rename-project",
-        "projectPath": "C:\\Users\\angel\\OneDrive\\Escritorio\\rename-project\\rename-project.csproj",
+        "projectPath": "C:\\Users\\angel\\Documents\\rename-project-cs\\rename-project.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angel\\OneDrive\\Escritorio\\rename-project\\obj\\",
+        "outputPath": "C:\\Users\\angel\\Documents\\rename-project-cs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

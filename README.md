@@ -1,36 +1,42 @@
 # rename-project
 
-Renombra automáticamente imágenes en una carpeta usando un prefijo personalizado y numeración secuencial.
+Automatically rename images in a folder using a custom prefix and sequential numbering.
 
-## ¿Para qué sirve?
+## What is it for?
 
-Este proyecto está diseñado para facilitar el renombrado masivo de archivos de imagen en una carpeta, asignando un nombre uniforme con un prefijo y un número incremental. Es útil para organizar fotos de propiedades, productos, galerías, etc., evitando nombres duplicados y mejorando la gestión de archivos.
+This project is designed to make bulk renaming of image files in a folder easier, assigning a uniform name with a prefix and incremental number. It's useful for organizing photos of properties, products, galleries, etc., avoiding duplicate names and improving file management.
 
-## Motivo de uso
+## Why use it?
 
-- Estandarizar nombres de imágenes para catálogos, sitios web o archivos personales.
-- Evitar conflictos por nombres repetidos.
-- Ahorrar tiempo en el proceso de renombrado manual.
+- Standardize image names for catalogs, websites, or personal files.
+- Avoid conflicts due to repeated names.
+- Save time compared to manual renaming.
 
-## ¿Cómo correr el proyecto?
+## How to run the project?
 
-1. **Clona o descarga el repositorio.**
-2. Abre el proyecto en Visual Studio o tu editor preferido.
-3. Edita el archivo [`Program.cs`](Program.cs) y cambia la variable `carpetaImagenes` por la ruta de la carpeta que contiene tus imágenes.
-4. Opcionalmente, cambia el valor de `prefijo` por el que desees usar.
-5. Compila y ejecuta el proyecto:
+1. **Clone or download the repository.**
+2. Open the project in Visual Studio or your preferred editor.
+3. Edit the [`Program.cs`](Program.cs) file and change the `carpetaImagenes` variable to the path of the folder containing your images.
+4. Optionally, change the value of `prefijo` to the prefix you want to use.
+5. Build and run the project:
 
    ```sh
    dotnet run
-## Ejemplo de uso
-Si tienes imagenes como_
+   ```
 
+## Usage example
+
+If you have images like:
+
+```
 IMG_001.jpg
 foto2.png
 casa.jpeg
+```
 
-si usas el prefijo " 
+and you use the prefix `brisas`, the result will be:
 
+```
 brisas-1.jpg
 brisas-2.png
-brisas-3.jpegbrisas "
+brisas-3.jpeg
